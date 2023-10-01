@@ -10,8 +10,7 @@
 
   
   1.banking system (Braches , B_name)   
-  2.Bank ->customer
-
+  2.Bank ->customer   
   3.customer -> saving Ac / current & take laon
 
   
